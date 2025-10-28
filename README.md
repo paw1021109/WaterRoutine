@@ -10,7 +10,6 @@
 
 ### 기술 스택
 - 언어/프레임워크: Swift, SwiftUI
-- 아키텍처: MVVM (Model–View–ViewModel)
 
 ### 개발 환경
 vsCode (맥이 아닌 관계로..)
